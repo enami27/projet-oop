@@ -44,7 +44,7 @@ if __name__ == "__main__":
         print("\nListe des commandes:")
         magasin.afficher_commandes()
         
-        # Annulation d'une commande (par exemple, la commande 3)
+        # Annulation d'une commande
         print("\nAnnulation de la commande #3:")
         magasin.annuler_commande(3)
         
